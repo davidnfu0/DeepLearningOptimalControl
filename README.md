@@ -38,3 +38,14 @@ J(u,W,\mu)=\frac12\sum_{i=1}^m \Big|\, C\!\big(W\,y_i^{[N]}+\mu\big)-c_i \Big|^2
 $$
 
 A partir de esta formulación, el objetivo es derivar condiciones óptimas (p.ej. PMP/HJB), proponer e implementar un algoritmo numérico basado en ecuaciones estado--adjunta (forward/backward) y comparar desempeño y complejidad computacional frente a clasificadores habituales (regresión, árboles, etc.). 
+
+
+## Referencias
+
+1. Benning, M., Celledoni, E., Ehrhardt, M. J., Owren, B., & Schönlieb, C. B. (2019). Deep learning as optimal control problems: models and numerical methods. arXiv preprint arXiv:1904.05657.
+
+2. Trélat, E. (2005). Contrôle optimal : théorie et applications. Vuibert.
+
+3. Grohs, P., & Kutyniok, G. (Eds.). (2022). Mathematical aspects of deep learning. Cambridge University Press.
+
+___
